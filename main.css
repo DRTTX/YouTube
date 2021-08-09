@@ -1,0 +1,19 @@
+body {
+    font-family: Geneva, Arial, sans-serif;
+    color: rgb(0, 0, 0);
+    background: rgb(0, 146, 132);
+}
+
+.channel {
+    justify-content: center;
+    margin: 1%;
+}
+
+.img{
+    margin: 2%;
+    max-width: 45%;
+}
+
+.link {
+    color: aqua;
+}
